@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ServerSentEventsTests/ServerSentEventsTests.csproj" Id="04c8e39a-b609-4925-9e12-c1b7266e57f9" />
+  <Project Path="ServerSentEvents/ServerSentEvents.csproj" />
+</Solution>
